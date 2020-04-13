@@ -1,0 +1,14 @@
+[package]
+name = "playground"
+version = "0.1.1-pre"
+authors = ["dteiml <dteiml@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num-bigint = "0.2.6"
+num-traits = "0.2.11"
+sha2 = "0.8.1"
+hex = "0.4.2"
+generic-array = "0.13.2"
